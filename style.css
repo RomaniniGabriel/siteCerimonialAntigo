@@ -22,6 +22,8 @@ h1{
     border: 4px  black;
     border-style: double;
     text-align: justify;
+    font-family: 'Montserrant',Arial;
+
 }
 
 h2, h3, h4{
